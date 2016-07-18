@@ -136,3 +136,4 @@ fabric.properties
 # *.ipr
 
 /.idea
+*/.idea
